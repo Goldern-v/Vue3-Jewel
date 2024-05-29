@@ -54,6 +54,7 @@ const changeSwiper = (index: number) => {
     console.log('sdad222');
 
     console.log('rebase-01');
+    console.log('rebase-011');
 
 }
 </script>
