@@ -32,9 +32,6 @@ onMounted(() => {
     console.log('rebase-01');
     console.log('rebase-02');
 
-
-    console.log('rebase3-03');
-
 });
 
 onUnmounted(() => {
