@@ -34,4 +34,5 @@
 
 <script setup lang="ts">
 const props = defineProps<{ showPaswordTag: Boolean }>()
+const props2 = defineProps()
 </script>
