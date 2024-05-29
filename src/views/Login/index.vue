@@ -26,6 +26,8 @@ onMounted(() => {
     console.log('djw-33333');
     console.log('djw-44444');
     console.log('sdad');
+    console.log('master变了 测试rebase');
+
 
     console.log('rebase-01');
 
