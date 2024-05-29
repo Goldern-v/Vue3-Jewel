@@ -30,6 +30,7 @@ onMounted(() => {
 
 
     console.log('rebase-01');
+    console.log('rebase-02');
 
 });
 
