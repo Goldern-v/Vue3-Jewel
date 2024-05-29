@@ -59,6 +59,8 @@ const changeSwiper = (index: number) => {
 
 
     console.log('rebase3-03');
+    console.log('rebase3-03333');
+    console.log('rebase3-0333333');
 
 }
 </script>
