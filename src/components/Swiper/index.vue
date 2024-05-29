@@ -53,6 +53,8 @@ const changeSwiper = (index: number) => {
     console.log("djw-test1111");
     console.log('sdad222');
 
+    console.log('rebase-01');
+
 }
 </script>
 

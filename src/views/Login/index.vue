@@ -27,6 +27,8 @@ onMounted(() => {
     console.log('djw-44444');
     console.log('sdad');
 
+    console.log('rebase-01');
+
 });
 
 onUnmounted(() => {
