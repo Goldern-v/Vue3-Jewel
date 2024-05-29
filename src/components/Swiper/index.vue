@@ -50,6 +50,9 @@ const swiperChange = (e: number) => {
 const changeSwiper = (index: number) => {
     swiper.value.setActiveItem(index)
     currentImage.value = index
+    console.log("djw-test1111");
+    console.log('sdad222');
+
 }
 </script>
 

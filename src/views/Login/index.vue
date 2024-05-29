@@ -23,6 +23,10 @@ const { SwiperRef, initDragImage, clearSwiper } = useSwiperSables()
 onMounted(() => {
     swiperImages.value = swiperImagesList
     initDragImage()
+    console.log('djw-33333');
+    console.log('djw-44444');
+    console.log('sdad');
+
 });
 
 onUnmounted(() => {
